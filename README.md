@@ -2,7 +2,7 @@
 ### My first Parallax 
 
 
-![Image](https://github.com/user-attachments/assets/3cb45fa0-1e0c-4e99-bbfe-da027c819a13)
+![Image](https://github.com/user-attachments/assets/e54b9e44-399f-4dd6-99e9-27b51b0db327)
  
 - [Demo Project](https://nastaranghorbanpour.github.io/personal-portfolio/)
 - Developed by Nastaran Ghorbanpour
